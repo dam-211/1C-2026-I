@@ -1,0 +1,5 @@
+Modificar la aplicación vista en clase para agregar nuevas operaciones matemáticas. 
+
+La app deberá permitir ingresar dos números, calcular suma, resta y multiplicación mediante botones separados, y además incorporar un botón que agregue un número aleatorio al resultado actual. 
+
+Mostrar siempre el resultado en pantalla y un texto indicando cuál fue la última acción realizada.
